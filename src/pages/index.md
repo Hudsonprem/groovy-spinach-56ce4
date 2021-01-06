@@ -20,8 +20,8 @@ sections:
     background: gray
     title: What we do
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We combine technological proficiency with our deep rooted understanding of
+      Business to deliver game changing results to our clients
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png

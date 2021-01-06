@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Home-Page-1.png
     image_alt: App preview
     title: Digital Solutions to Advance your Business
     content: >-

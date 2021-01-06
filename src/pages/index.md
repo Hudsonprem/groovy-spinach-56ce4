@@ -7,8 +7,10 @@ sections:
     image_alt: App preview
     title: Digital Solutions to Advance your Business
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      “In this day and age, with Zettabytes of data generated every day,
+      skipping Digital transformation is no longer an option. We at KS Smart
+      assist and enrich companies’ Digital journey enabling them to
+      revolutionize their Business Processes”
     actions:
       - label: Learn More
         url: /features
